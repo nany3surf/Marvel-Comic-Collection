@@ -1,0 +1,246 @@
+[
+	{
+		"idComic": 48534,
+		"title": "All-New X-Men (2012) #31",
+		"description": "ICEMAN UNLEASHED! Young Bobby Drake takes to the offensive! For someone whoâ€™s said she doesnâ€™t find him particularly pleasant to be around, Laura seems to have taken an odd interest in Warren.\n\n",
+		"pageCount": 32,
+		"buyDate": "2014-08-04T00:00:00-0400",
+		"salesDate": "2014-08-27T00:00:00-0400",
+		"series": {
+			"resourceURI": "http://gateway.marvel.com/v1/public/series/16449",
+			"name": "All-New X-Men (2012 - Present)"
+		},
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/48534/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/9018",
+					"name": "Mahmud Asrar",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+					"name": "Brian Michael Bendis",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+					"name": "Stuart Immonen",
+					"role": "penciller (cover)"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/48534/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+					"name": "X-Men"
+				}
+			],
+			"returned": 1
+		},
+		"id": 1
+	},
+	{
+		"idComic": 47813,
+		"title": "Inhuman (2014) #4",
+		"description": "Rising star RYAN STEGMAN (SUPERIOR SPIDER-MAN, WOLVERINE) joins the INHUMAN team!\nMedusa and the Inhumans get a visitor to New Attilan- THOR!\nWho is Reader and is he friend or foe?!",
+		"pageCount": 32,
+		"buyDate": "2014-08-04T00:00:00-0400",
+		"salesDate": "2014-08-27T00:00:00-0400",
+		"series": {
+			"resourceURI": "http://gateway.marvel.com/v1/public/series/18065",
+			"name": "Inhuman (2014 - Present)"
+		},
+		"price": 3.99,
+		"creators": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/47813/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+					"name": "Charles Soule",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+					"name": "Ryan Stegman",
+					"role": "artist"
+				}
+			],
+			"returned": 2
+		},
+		"characters": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/47813/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009438",
+					"name": "Medusa"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+					"name": "Thor"
+				}
+			],
+			"returned": 2
+		},
+		"id": 2
+	},
+	{
+		"idComic": 48532,
+		"title": "All-New X-Men (2012) #29",
+		"description": "Past, present and future collide as the Future Brotherhood exacts their final judgment on the All-New X-Men.\nPlus, Angel takes control!",
+		"pageCount": 32,
+		"buyDate": "2014-06-25T00:00:00-0400",
+		"salesDate": "2014-07-09T00:00:00-0400",
+		"series": {
+			"resourceURI": "http://gateway.marvel.com/v1/public/series/16449",
+			"name": "All-New X-Men (2012 - Present)"
+		},
+		"price": 3.99,
+		"creators": {
+			"available": 2,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/48532/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+					"name": "Brian Michael Bendis",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+					"name": "Stuart Immonen",
+					"role": "penciller (cover)"
+				}
+			],
+			"returned": 2
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/48532/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+					"name": "X-Men"
+				}
+			],
+			"returned": 1
+		},
+		"id": 3
+	},
+	{
+		"idComic": 36421,
+		"title": "Iron Man (2013) #258.4",
+		"description": "\r\n\r\n<ul><li>Micheline. Layton. Two voices that defined Iron Man come together to tell the untold story of his most dire hour &ndash; Armor Wars 2!</li></ul>",
+		"pageCount": 32,
+		"buyDate": "2013-05-15T00:00:00-0400",
+		"salesDate": "2013-05-29T00:00:00-0400",
+		"series": {
+			"resourceURI": "http://gateway.marvel.com/v1/public/series/12885",
+			"name": "Iron Man (2013)"
+		},
+		"price": 3.99,
+		"creators": {
+			"available": 6,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/36421/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+					"name": "Tom Brennan",
+					"role": "editor"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+					"name": "Dave Lanphear",
+					"role": "letterer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/1247",
+					"name": "Bob Layton",
+					"role": "inker"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+					"name": "David Michelinie",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/6588",
+					"name": "David Ross",
+					"role": "penciler (cover)"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+					"name": "Chris Sotomayor",
+					"role": "colorist"
+				}
+			],
+			"returned": 6
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/36421/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+					"name": "Iron Man"
+				}
+			],
+			"returned": 1
+		},
+		"id": 4
+	},
+	{
+		"idComic": 36420,
+		"title": "Iron Man (2013) #258.3",
+		"description": "\r\n\r\n<ul><li>Micheline. Layton. Two voices that defined Iron Man come together to tell the untold story of his most dire hour &ndash; Armor Wars 2!</li></ul>",
+		"pageCount": 32,
+		"buyDate": "2013-05-08T00:00:00-0400",
+		"salesDate": "2013-05-22T00:00:00-0400",
+		"series": {
+			"resourceURI": "http://gateway.marvel.com/v1/public/series/12885",
+			"name": "Iron Man (2013)"
+		},
+		"price": 3.99,
+		"creators": {
+			"available": 3,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/36420/creators",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/1247",
+					"name": "Bob Layton",
+					"role": "artist"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+					"name": "David Michelinie",
+					"role": "writer"
+				},
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/creators/6588",
+					"name": "David Ross",
+					"role": "penciler (cover)"
+				}
+			],
+			"returned": 3
+		},
+		"characters": {
+			"available": 1,
+			"collectionURI": "http://gateway.marvel.com/v1/public/comics/36420/characters",
+			"items": [
+				{
+					"resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+					"name": "Iron Man"
+				}
+			],
+			"returned": 1
+		},
+		"id": 5
+	}
+]
